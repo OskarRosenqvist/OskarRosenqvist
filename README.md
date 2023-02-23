@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OskarRosenqvist
-- 👀 I’m interested in Python, Django, Django Rest Framework, OCR, Pandas, React.
-- 🌱 I’m currently learning Python, Django, React
+- 👀 I’m interested in Python, Django Rest Framework, React, Docker, AWS/GCP.
+- 🌱 I’m currently learning Python, Django, React, Docker, AWS/GCP.
 - 💞️ I’m working but dont mind work offers.
 - 📫 How to reach me: oskar_rosenqvist (AT) hotmail (DOT) com 
