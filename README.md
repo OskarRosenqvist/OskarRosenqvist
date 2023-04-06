@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OskarRosenqvist
-- 👀 I’m interested in Python, Django Rest Framework, React, Docker, CI/CD-workflows, AWS/GCP.
-- 🌱 I’m currently learning Django, React, Docker, CI/CD-workflows, AWS/GCP.
+- 👀 I’m interested in Python, Django Rest Framework, React, Docker, GitHub CI/CD-workflows, AWS/GCP, GIS, QGIS.
+- 🌱 I’m currently learning Django, React, Docker, GitHub CI/CD-workflows, AWS/GCP, GIS, QGIS.
 - 💞️ I’m working but dont mind work offers.
 - 📫 How to reach me: oskar_rosenqvist (AT) hotmail (DOT) com 
