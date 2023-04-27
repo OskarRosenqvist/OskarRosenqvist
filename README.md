@@ -3,3 +3,7 @@
 - 🌱 I’m currently learning Django/Geodjango, React, QGIS-Plugins and Leaflet.
 - 💞️ I’m working but dont mind work offers.
 - 📫 How to reach me: oskar_rosenqvist (AT) hotmail (DOT) com 
+
+
+<img src="https://github.com/OskarRosenqvist/django_react/blob/main/frontend/src/static/images/geoplocket.jpg" alt=""></img>
+
